@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+		"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="10"
+     stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+	<g>
+		<path fill="none" stroke="rgb(0,0,0)"
+		      d="M 335,257 C 256,293 177,309 99,304 141,361 165,429 165,503 165,576 141,644 99,702 L 99,707 C 177,702 262,717 335,754 408,785 463,843 499,900 L 499,900 505,900 C 541,838 596,785 663,754 736,717 821,702 893,702 900,702 900,702 900,702 L 900,702 C 857,644 833,576 833,503 833,429 857,361 900,304 L 900,304 C 821,309 742,293 663,257 590,220 535,162 499,99 L 499,99 C 463,162 408,220 335,257 Z"/>
+		<path fill="none" stroke="rgb(0,0,0)" d="M 99,900 L 99,900 Z"/>
+		<path fill="none" stroke="rgb(0,0,0)" d="M 900,99 L 900,99 Z"/>
+	</g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+		"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="10"
+     stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+	<g>
+		<path fill="none" stroke="rgb(0,0,0)"
+		      d="M 100,281 C 100,259 121,237 143,237 L 813,237 813,193 C 813,171 835,150 857,150 879,150 901,171 901,193 L 901,719 C 901,741 879,763 857,763 L 187,763 187,807 C 187,829 165,851 143,851 121,851 100,829 100,807 L 100,281 Z"/>
+		<path fill="none" stroke="rgb(0,0,0)" d="M 100,150 L 100,150 Z"/>
+		<path fill="none" stroke="rgb(0,0,0)" d="M 901,851 L 901,851 Z"/>
+		<path fill="none" stroke="rgb(0,0,0)"
+		      d="M 143,281 C 143,270 154,259 165,259 176,259 187,270 187,281 187,303 165,325 143,325 L 143,281 Z"/>
+		<path fill="none" stroke="rgb(0,0,0)" d="M 100,150 L 100,150 Z"/>
+		<path fill="none" stroke="rgb(0,0,0)" d="M 901,851 L 901,851 Z"/>
+		<path fill="none" stroke="rgb(0,0,0)"
+		      d="M 857,193 C 857,204 835,215 813,215 L 813,193 C 813,171 835,150 857,150 879,150 901,171 901,193 901,215 879,237 857,237 L 857,193 Z"/>
+		<path fill="none" stroke="rgb(0,0,0)" d="M 100,150 L 100,150 Z"/>
+		<path fill="none" stroke="rgb(0,0,0)" d="M 901,851 L 901,851 Z"/>
+		<path fill="none" stroke="rgb(0,0,0)" d="M 143,325 C 121,325 100,303 100,281"/>
+		<path fill="none" stroke="rgb(0,0,0)" d="M 100,150 L 100,150 Z"/>
+		<path fill="none" stroke="rgb(0,0,0)" d="M 901,851 L 901,851 Z"/>
+		<path fill="none" stroke="rgb(0,0,0)" d="M 857,237 L 813,237"/>
+		<path fill="none" stroke="rgb(0,0,0)" d="M 100,150 L 100,150 Z"/>
+		<path fill="none" stroke="rgb(0,0,0)" d="M 901,851 L 901,851 Z"/>
+		<path fill="none" stroke="rgb(0,0,0)" d="M 187,281 L 187,807"/>
+		<path fill="none" stroke="rgb(0,0,0)" d="M 100,150 L 100,150 Z"/>
+		<path fill="none" stroke="rgb(0,0,0)" d="M 901,851 L 901,851 Z"/>
+	</g>
+</svg>
