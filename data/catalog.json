@@ -1,0 +1,366 @@
+[
+  {
+    "title": "Shapes",
+    "path": "shapes/",
+    "images": [
+      {
+        "title": "Arc",
+        "file": "arc.svg"
+      },
+      {
+        "title": "Circle",
+        "file": "circle.svg"
+      },
+      {
+        "title": "Circle Pie",
+        "file": "circle_pie.svg"
+      },
+      {
+        "title": "Convex and Pointed Shield",
+        "file": "convex_and_pointed_shield.svg"
+      },
+      {
+        "title": "Convex Shield",
+        "file": "convex_shield.svg"
+      },
+      {
+        "title": "Crossed Circle",
+        "file": "crossed_circle.svg"
+      },
+      {
+        "title": "Cube",
+        "file": "cube.svg"
+      },
+      {
+        "title": "Diamond",
+        "file": "diamond.svg"
+      },
+      {
+        "title": "Diamond Beveled Frame",
+        "file": "diamond_beveled_frame.svg"
+      },
+      {
+        "title": "Ellipse",
+        "file": "ellipse.svg"
+      },
+      {
+        "title": "Frame",
+        "file": "frame.svg"
+      },
+      {
+        "title": "Horizontal Chevron",
+        "file": "horizontal_chevron.svg"
+      },
+      {
+        "title": "Hourglass",
+        "file": "hourglass.svg"
+      },
+      {
+        "title": "Isosceles Triangle",
+        "file": "isosceles_triangle.svg"
+      },
+      {
+        "title": "Octagon",
+        "file": "octagon.svg"
+      },
+      {
+        "title": "Octagonal Beveled Frame",
+        "file": "octagonal_beveled_frame.svg"
+      },
+      {
+        "title": "Parallelogram",
+        "file": "parallelogram.svg"
+      },
+      {
+        "title": "Pointed Shield",
+        "file": "pointed_shield.svg"
+      },
+      {
+        "title": "Rectangle",
+        "file": "rectangle.svg"
+      },
+      {
+        "title": "Regular Hexagon",
+        "file": "regular_hexagon.svg"
+      },
+      {
+        "title": "Regular Pentagon",
+        "file": "regular_pentagon.svg"
+      },
+      {
+        "title": "Right Trapezoid",
+        "file": "right_trapezoid.svg"
+      },
+      {
+        "title": "Right Triangle",
+        "file": "right_triangle.svg"
+      },
+      {
+        "title": "Rounded Rectangle",
+        "file": "rounded_rectangle.svg"
+      },
+      {
+        "title": "Rounded Square",
+        "file": "rounded_square.svg"
+      },
+      {
+        "title": "Square",
+        "file": "square.svg"
+      },
+      {
+        "title": "Square Beveled Frame",
+        "file": "square_beveled_frame.svg"
+      },
+      {
+        "title": "Trapezoid",
+        "file": "trapezoid.svg"
+      },
+      {
+        "title": "Vertical Chevron",
+        "file": "vertical_chevron.svg"
+      },
+      {
+        "title": "X Crossed Circle",
+        "file": "x_crossed_circle.svg"
+      }
+    ]
+  },
+  {
+    "title": "Arrows",
+    "path": "arrows/",
+    "images": [
+      {
+        "title": "Corner Right Arrow",
+        "file": "corner_right_arrow.svg"
+      },
+      {
+        "title": "Curved Arrow",
+        "file": "curved_arrow.svg"
+      },
+      {
+        "title": "Curved Split Arrow",
+        "file": "curved_split_arrow.svg"
+      },
+      {
+        "title": "Down Arrow",
+        "file": "down_arrow.svg"
+      },
+      {
+        "title": "Four Way Arrow",
+        "file": "four_way_arrow.svg"
+      },
+      {
+        "title": "Left and Right Arrow",
+        "file": "left_and_right_arrow.svg"
+      },
+      {
+        "title": "Left Arrow",
+        "file": "left_arrow.svg"
+      },
+      {
+        "title": "Lightning Bolt Arrow",
+        "file": "lightning_bolt_arrow.svg"
+      },
+      {
+        "title": "Notched Right Arrow",
+        "file": "notched_right_arrow.svg"
+      },
+      {
+        "title": "Right Arrow",
+        "file": "right_arrow.svg"
+      },
+      {
+        "title": "S Shaped Arrow",
+        "file": "s_shaped_arrow.svg"
+      },
+      {
+        "title": "Split Arrow",
+        "file": "split_arrow.svg"
+      },
+      {
+        "title": "Striped Right Arrow",
+        "file": "striped_right_arrow.svg"
+      },
+      {
+        "title": "Up and Down Arrow",
+        "file": "up_and_down_arrow.svg"
+      },
+      {
+        "title": "Up and Right Arrow",
+        "file": "up_and_right_arrow.svg"
+      },
+      {
+        "title": "Up Arrow",
+        "file": "up_arrow.svg"
+      },
+      {
+        "title": "Up, Right And Down Arrow",
+        "file": "up_right_and_down_arrow.svg"
+      }
+    ]
+  },
+  {
+    "title": "Callouts",
+    "path": "callouts/",
+    "images": [
+      {
+        "title": "Cloud Callout",
+        "file": "cloud_callout.svg"
+      },
+      {
+        "title": "Rectangular Callout",
+        "file": "rectangular_callout.svg"
+      },
+      {
+        "title": "Round Callout",
+        "file": "round_callout.svg"
+      },
+      {
+        "title": "Rounded Rectangular Callout",
+        "file": "rounded_rectangular_callout.svg"
+      }
+    ]
+  },
+  {
+    "title": "Ribbons",
+    "path": "ribbons/",
+    "images": [
+      {
+        "title": "Convex Banner",
+        "file": "convex_banner.svg"
+      },
+      {
+        "title": "Doorplate Banner",
+        "file": "doorplate_banner.svg"
+      },
+      {
+        "title": "Horizontal Scroll",
+        "file": "horizontal_scroll.svg"
+      },
+      {
+        "title": "Paper Note",
+        "file": "paper_note.svg"
+      },
+      {
+        "title": "Six Points Curved Banner",
+        "file": "six_points_curved_banner.svg"
+      },
+      {
+        "title": "Vertical Scroll",
+        "file": "vertical_scroll.svg"
+      },
+      {
+        "title": "Wave Banner",
+        "file": "wave_banner.svg"
+      }
+    ]
+  },
+  {
+    "title": "Stars",
+    "path": "stars/",
+    "images": [
+      {
+        "title": "Eight Points Star",
+        "file": "eight_points_star.svg"
+      },
+      {
+        "title": "Five Points Star",
+        "file": "five_points_star.svg"
+      },
+      {
+        "title": "Four Points Star",
+        "file": "four_points_star.svg"
+      },
+      {
+        "title": "Six Points Star",
+        "file": "six_points_star.svg"
+      },
+      {
+        "title": "Twelve Points Star",
+        "file": "twelve_points_star.svg"
+      },
+      {
+        "title": "Twenty Four Points Star",
+        "file": "twenty_four_points_star.svg"
+      }
+    ]
+  },
+  {
+    "title": "Symbols",
+    "path": "symbols/",
+    "images": [
+      {
+        "title": "Card",
+        "file": "card.svg"
+      },
+      {
+        "title": "Cloud",
+        "file": "cloud.svg"
+      },
+      {
+        "title": "Cross",
+        "file": "cross.svg"
+      },
+      {
+        "title": "Cylinder",
+        "file": "cylinder.svg"
+      },
+      {
+        "title": "Document",
+        "file": "document.svg"
+      },
+      {
+        "title": "Documents",
+        "file": "documents.svg"
+      },
+      {
+        "title": "Explosion",
+        "file": "explosion.svg"
+      },
+      {
+        "title": "Flower",
+        "file": "flower.svg"
+      },
+      {
+        "title": "Heart",
+        "file": "heart.svg"
+      },
+      {
+        "title": "Marshmallow",
+        "file": "marshmallow.svg"
+      },
+      {
+        "title": "Partial Moon",
+        "file": "partial_moon.svg"
+      },
+      {
+        "title": "Prohibited Sign",
+        "file": "prohibited_sign.svg"
+      },
+      {
+        "title": "Puzzle Piece",
+        "file": "puzzle_piece.svg"
+      },
+      {
+        "title": "Regular Face",
+        "file": "regular_face.svg"
+      },
+      {
+        "title": "Ring",
+        "file": "ring.svg"
+      },
+      {
+        "title": "Sad Face",
+        "file": "sad_face.svg"
+      },
+      {
+        "title": "Smile Face",
+        "file": "smile_face.svg"
+      },
+      {
+        "title": "Sun",
+        "file": "sun.svg"
+      }
+    ]
+  }
+]
