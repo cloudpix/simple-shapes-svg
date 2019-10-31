@@ -1,0 +1,24 @@
+{
+  "name": "simple-shapes-svg",
+  "version": "1.0.0",
+  "description": "Package with simple geometric shapes in SVG.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iscoolapp/simple-shapes-svg.git"
+  },
+  "keywords": [
+    "shapes",
+    "svg",
+    "geometric"
+  ],
+  "author": "CloudPix",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/iscoolapp/simple-shapes-svg/issues"
+  },
+  "homepage": "https://github.com/iscoolapp/simple-shapes-svg#readme"
+}
