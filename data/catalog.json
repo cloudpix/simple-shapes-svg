@@ -2,6 +2,7 @@
   {
     "title": "Shapes",
     "path": "shapes/",
+    "fa": "fa-square-o",
     "images": [
       {
         "title": "Arc",
@@ -128,6 +129,7 @@
   {
     "title": "Arrows",
     "path": "arrows/",
+    "fa": "fa-arrow-right",
     "images": [
       {
         "title": "Corner Right Arrow",
@@ -202,6 +204,7 @@
   {
     "title": "Callouts",
     "path": "callouts/",
+    "fa": "fa-comment-o",
     "images": [
       {
         "title": "Cloud Callout",
@@ -224,6 +227,7 @@
   {
     "title": "Ribbons",
     "path": "ribbons/",
+    "fa": "fa-bookmark-o fa-rotate-90",
     "images": [
       {
         "title": "Convex Banner",
@@ -258,6 +262,7 @@
   {
     "title": "Stars",
     "path": "stars/",
+    "fa": "fa-star-o",
     "images": [
       {
         "title": "Eight Points Star",
@@ -288,6 +293,7 @@
   {
     "title": "Symbols",
     "path": "symbols/",
+    "fa": "fa-moon-o",
     "images": [
       {
         "title": "Card",
